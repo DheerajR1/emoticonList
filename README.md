@@ -1,0 +1,2 @@
+# emoticonList
+API for Emoji
