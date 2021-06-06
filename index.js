@@ -32,7 +32,6 @@ app.get('/getEmoji/emoji.json', (req, res) => {
 });
 
 function getEmojiName(inputEmoji) {
-
   var emojiName = "not Found";
   const data = fsExtra.readFileSync('data.json');
   let emojiDB = JSON.parse(data);
@@ -60,10 +59,7 @@ function getEmojiName(inputEmoji) {
 }
 
 app.get('/getEmojiName/emojiName.json', (req, res) => {
-  console.log(req.query.text)
   var emojiSent = req.query.text;
-
-  console.log(getEmojiName(emojiSent));
   res.json({
     "success": {
       "total": 1
