@@ -1,5 +1,5 @@
 {
-    "Smileys and Emotion": [{
+    "Smileys": [{
             "emoji": "😀",
             "name": "grinning face"
         }, {
@@ -511,7 +511,7 @@
             "name": "zzz"
         }
     ],
-    "People and Body": [{
+    "People": [{
             "emoji": "👋",
             "name": "waving hand"
         }, {
@@ -9239,7 +9239,7 @@
             "name": "bald"
         }
     ],
-    "Animals and Nature": [{
+    "Nature": [{
             "emoji": "🐵",
             "name": "monkey face"
         }, {
@@ -9682,7 +9682,7 @@
             "name": "leaf fluttering in wind"
         }
     ],
-    "Food and Drink": [{
+    "Food": [{
             "emoji": "🍇",
             "name": "grapes"
         }, {
@@ -10077,7 +10077,7 @@
             "name": "amphora"
         }
     ],
-    "Travel and Places": [{
+    "Travel": [{
             "emoji": "🌍",
             "name": "globe showing Europe-Africa"
         }, {
